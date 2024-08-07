@@ -1,15 +1,15 @@
 # Sayvon Edmondson ('save_on')
 `Digital Architect (Autodidact / Moving with purpose, towards a purpose)`
 <div align="left">
-  <a href="https://www.linkedin.com/in/sayvon-edmondson/">
+  <a href="https://www.linkedin.com/in/sayvon-edmondson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn button"/>
   </a>
   &nbsp&nbsp
-  <a href="https://github.com/save-on?tab=repositories">
+  <a href="https://github.com/save-on?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github button"/>
   </a>
   &nbsp&nbsp
-  <a href="https://www.codewars.com/users/save-on">
+  <a href="https://www.codewars.com/users/save-on" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars button"/>
   </a>
 </div>
