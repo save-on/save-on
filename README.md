@@ -16,7 +16,7 @@
 
 <br />
 
-As a tech innovator with a strong foundation in React and Node, I have honed my skills through rigorous training at TripleTen and diverse real-world projects. My journey has equipped me with technical expertise and an entrepreneurial mindset. I am passionate about leveraging these skills to develop applications that make a real difference, particularly in improving the lives of others and providing guidance and support to those who follow. I am eager to connect with like-minded professionals to explore collaborative opportunities and drive mutual growth as I work towards my goal of making a significant impact in the tech industry.
+Software engineer focused on full-stack development and systems programming. Building with C++, React, Node.js, and Linux while exploring media pipelines, performance optimization, and low-level systems design.
 
 ## Languages and Tools :wrench:
 <div align="center">
